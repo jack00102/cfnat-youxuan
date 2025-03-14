@@ -1,2 +1,1 @@
-# cfnat-youxuan
-个人自用cf优选ip
+#个人自用cf优选ip

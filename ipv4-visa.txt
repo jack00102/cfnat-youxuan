@@ -1,0 +1,9 @@
+127.0.0.1:1234#CFnat
+usa.visa.com#VISA
+myanmar.visa.com#VISA
+www.visa.com.tw#VISA
+www.visaeurope.ch#VISA
+www.visa.com.sg#VISA
+www.visa.co.jp#VISA
+www.visa.com.br#VISA
+www.visasoutheasteurope.com#VISA
